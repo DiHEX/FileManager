@@ -63,7 +63,7 @@ public class Main extends Application {
         root.setCenter(listView);
 
         Scene scene = new Scene(root, 600, 400);
-        stage.setTitle("Reaktywny Menedżer Plików");
+        stage.setTitle("Menedżer Plików");
         stage.setScene(scene);
         stage.show();
     }
